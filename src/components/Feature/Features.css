@@ -19,6 +19,15 @@
   padding: 1rem 1rem;
 }
 
+.features-container > h2 {
+  font-size: 65px;
+  color: var(--primary-color);
+}
+
+.features-container > p {
+  font-size: 30px;
+}
+
 .feature-icon {
   height: 65px;
   margin-bottom: 0.5em;

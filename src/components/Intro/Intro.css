@@ -2,6 +2,7 @@
   width: 90%;
   margin: 0 auto;
   flex-wrap: wrap;
+  margin-bottom: 3rem;
 }
 
 .intro-container__content-left {
