@@ -11,12 +11,14 @@
 
 .feature-cards {
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .feature-card {
   width: 25vw;
   background-color: #fff;
   padding: 1rem 1rem;
+  min-width: 320px;
 }
 
 .features-container > h2 {
